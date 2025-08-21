@@ -21,7 +21,10 @@ I decided to build an **ASL recognition system** because it provides a **full le
 ---
 
 ## 📊 Graphs
-
+<img width="567" height="453" alt="accu" src="https://github.com/user-attachments/assets/19eb911f-1dac-4fa1-81de-858d03193f9d" />
+<img width="567" height="453" alt="loss" src="https://github.com/user-attachments/assets/db284291-b431-401e-ba74-f45f84906325" />
+<img width="567" height="453" alt="accu_loss" src="https://github.com/user-attachments/assets/3b2609d8-ca90-4184-a04e-f77ed37fe6a1" />
+<img width="1066" height="986" alt="heat_map" src="https://github.com/user-attachments/assets/e8dbe32b-c226-4ef6-9094-ae5c01d6b84e" />
 
 ---
 
@@ -30,3 +33,4 @@ I decided to build an **ASL recognition system** because it provides a **full le
 - 🖼️ Improve preprocessing pipeline (e.g., background noise removal, hand detection).
 
 ---
+
